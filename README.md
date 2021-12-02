@@ -1,4 +1,4 @@
-Hello. I am Rara and I am quite new to coding in any capacity beyond Scratch. I want to make several Game Bar widgets, as well as get to a point where I can help the development of the OBS Project in any way.
+Hello. I am Rara, and I am quite new to coding in any capacity beyond Scratch. I want to make several Game Bar widgets, as well as get to a point where I can help the development of the OBS Project in any way.
 
 This will mean I am currently interested in learning C# and C++, however I understand that I have pretty far to go before I can do anything meaningful, but I'm looking to give it a shot!
 
